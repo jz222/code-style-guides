@@ -1,4 +1,4 @@
-# ReactJS Style Guide
+# ReactJS Code Style Guide
 
 > Mosaic's code style guide for ReactJS applications.
 
